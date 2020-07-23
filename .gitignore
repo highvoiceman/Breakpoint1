@@ -1,0 +1,6 @@
+/.vs/*
+*.aps
+*.filters
+*.user
+/Breakpoint1/Debug/*
+/Debug/*
